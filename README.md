@@ -1,6 +1,7 @@
 # Credits
 
 [Pizzaboxer](https://github.com/pizzaboxer) for even making bloxstrap. (anybody who helps will be credited here)
+This is NOT an official package.
 
 # BloxStrap RPC (for rbxts)
 
@@ -32,3 +33,7 @@ BloxstrapRPC.SetRichPresence({
 	},
 });
 ```
+
+# Installation
+
+For some reason NPM won't let me publish a @rbxts package, so you'll just have to install through GitHub

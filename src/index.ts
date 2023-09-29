@@ -1,4 +1,4 @@
-// BloxstrapRPC Helper Module (current version is v1.0.1)
+// BloxstrapRPC Helper Module (current typed version is v1.0.0 and current untyped version is v1.0.1)
 
 // Original code written by pizzaboxer (@xtremeguy2256) and Epix (@ElusiveEpix)
 // Typed version made by doqe (@doqe_wow)

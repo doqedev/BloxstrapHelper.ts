@@ -1,45 +1,45 @@
 {
-	"name": "@rbxts/bloxstrap-rpc",
-	"version": "1.0.1",
-	"description": "Import Discord RPC features into your ROLBOX game with BloxstrapRPC",
-	"main": "out/init.lua",
-	"scripts": {
-		"build": "rbxtsc",
-		"watch": "rbxtsc -w",
-		"prepublishOnly": "npm run build"
-	},
-	"keywords": [],
-	"author": "doqe",
-	"license": "ISC",
-	"types": "out/index.d.ts",
-	"files": [
-		"out",
-		"!**/*.tsbuildinfo"
-	],
-	"publishConfig": {
-		"access": "public"
-	},
-	"devDependencies": {
-		"@rbxts/compiler-types": "^2.1.1-types.0",
-		"@rbxts/types": "^1.0.717",
-		"@typescript-eslint/eslint-plugin": "^6.7.3",
-		"@typescript-eslint/parser": "^6.7.3",
-		"eslint": "^8.50.0",
-		"eslint-config-prettier": "^9.0.0",
-		"eslint-plugin-prettier": "^5.0.0",
-		"eslint-plugin-roblox-ts": "^0.0.35",
-		"prettier": "^3.0.3",
-		"typescript": "^5.2.2"
-	},
-	"dependencies": {
-		"@rbxts/services": "^1.5.1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/doqedev/BloxstrapHelper.ts.git"
-	},
-	"bugs": {
-		"url": "https://github.com/doqedev/BloxstrapHelper.ts/issues"
-	},
-	"homepage": "https://github.com/doqedev/BloxstrapHelper.ts#readme"
+  "name": "@rbxts/bloxstrap-rpc",
+  "version": "1.0.0",
+  "description": "Import Discord RPC features into your ROBLOX game with BloxstrapRPC!",
+  "main": "out/init.lua",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc -w",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [],
+  "author": "dogeplayz",
+  "license": "ISC",
+  "types": "out/index.d.ts",
+  "files": [
+    "out",
+    "!**/*.tsbuildinfo"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@rbxts/compiler-types": "^2.1.1-types.0",
+    "@rbxts/types": "^1.0.717",
+    "@typescript-eslint/eslint-plugin": "^6.7.3",
+    "@typescript-eslint/parser": "^6.7.3",
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-roblox-ts": "^0.0.35",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@rbxts/services": "^1.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doqedev/BloxstrapHelper.ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doqedev/BloxstrapHelper.ts/issues"
+  },
+  "homepage": "https://github.com/doqedev/BloxstrapHelper.ts#readme"
 }
